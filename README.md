@@ -26,10 +26,10 @@ A Python implementation of **Neural Style Transfer (NST)** using PyTorch and a p
    - Iteratively updates the generated image using L-BFGS to minimize total loss.
   
 ## Output
-Sample Input:
+- Sample Input:
 - ![Image](https://github.com/user-attachments/assets/51c7003d-d329-4724-b754-68b640fdc507)
 - ![Image](https://github.com/user-attachments/assets/2fc37569-762b-4dcc-84c7-903e8116035f)
-its Output:
+- its Output:
 - ![Image](https://github.com/user-attachments/assets/e01660ab-d4b9-4e62-a8f1-19ff2df1f423)
 
 ## Installation
