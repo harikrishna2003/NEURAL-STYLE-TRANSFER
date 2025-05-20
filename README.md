@@ -1,3 +1,10 @@
+- COMPANY: CODETECH IT SOLUTIONS
+- NAME: HARIKRISHNA PILLAI
+- INTERN ID: C0DF49
+- DOMAIN: ARTIFICIAL INTELLIGENCE
+- DURATION: 4 WEEKS
+- MENTOR: NEELA SANTOSH
+
 # 🎨 Neural Style Transfer with PyTorch
 
 A Python implementation of **Neural Style Transfer (NST)** using PyTorch and a pre-trained VGG19 model. This algorithm merges the content of one image with the artistic style of another, creating visually striking results.
